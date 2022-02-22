@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Voxxai
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning informatica
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me don't
