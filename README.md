@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Voxxai
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m not looking to collaborate on project
-- 📫 How to reach me? don't reach me pls thx ;)
