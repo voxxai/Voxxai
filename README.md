@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Jinx.pfp" alt="Voxxai Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Voxxai/Voxxai/main/Jinx_pfp.jpg" alt="Voxxai Banner" width="800"/>
 </p>
 
 ### Hi there 👋, I'm Voxxai!
