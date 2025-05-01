@@ -14,6 +14,6 @@
 
 ### 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,go,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,css,ts,html,vue)](https://skillicons.dev)
 
 ---
