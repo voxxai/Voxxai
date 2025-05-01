@@ -22,21 +22,13 @@ I'm currently a student pursuing Computer Science at Hogeschool Rotterdam.
 
 ### 📊 My GitHub Stats & Activity
 
-<table>
-  <tr>
-    <td valign="top">
-      [![Voxxai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voxxai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td valign="top">
-      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxxai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=Voxxai&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
+### 📊 My GitHub Stats & Activity
+
+[![Voxxai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voxxai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxxai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Voxxai&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
