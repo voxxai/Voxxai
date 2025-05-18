@@ -28,7 +28,7 @@
 <p align="center">I'm comfortable working with a range of technologies. Here's a glimpse of my current stack:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,cs,dotnet,python,nodejs,sql,mysql,git,github,vscode,figma,docker,azure,aws,linux,rust&theme=light&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,cs,dotnet,python,nodejs,mysql,mssql,git,github,vscode,figma,docker,azure,aws,linux,rust&theme=light&perline=10" alt="My Skills"/>
 </p>
 
 <p align="center"><strong>Languages:</strong> JavaScript, TypeScript, HTML5, CSS3, C#, Python, Rust</p>
