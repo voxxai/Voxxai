@@ -28,13 +28,13 @@
 <p align="center">I'm comfortable working with a range of technologies. Here's a glimpse of my current stack:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,cs,dotnet,python,nodejs,mysql,git,github,vscode,figma,docker,azure,aws,linux,rust&theme=light&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,python,rust,react,dotnet,nodejs,mysql,git,github,vscode,figma,docker,azure,aws,linux,windows&theme=light&perline=10" alt="My Skills"/>
 </p>
 
 <p align="center"><strong>Languages:</strong> JavaScript, TypeScript, HTML5, CSS3, C#, Python, Rust</p>
 <p align="center"><strong>Frameworks/Libraries:</strong> React, .NET, Node.js</p>
 <p align="center"><strong>Databases:</strong> SQL Server, MySQL</p>
-<p align="center"><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Figma, Docker, Azure, AWS, Linux</p>
+<p align="center"><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Figma, Docker, Azure, AWS, Linux, Windows</p>
 <p align="center"><strong>Cloud & DevOps:</strong> Azure, AWS, Docker</p>
 
 ---
