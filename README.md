@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Voxxai/Voxxai/main/Jinx_pfp.jpg" alt="Voxxai Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Voxxai/Voxxai/main/Soul.jpg" alt="Voxxai Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Gilian (Voxxai) 👋</h1>
@@ -28,7 +28,7 @@
 <p align="center">I'm comfortable working with a range of technologies. Here's a glimpse of my current stack:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,python,rust,react,dotnet,nodejs,mysql,git,github,vscode,figma,linux,windows,azure,aws,docker&theme=light&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,python,rust,react,dotnet,nodejs,mysql,git,github,vscode,figma,linux,windows,azure,aws,docker&theme=dark&perline=10" alt="My Skills"/>
 </p>
 
 <p align="center"><strong>Languages:</strong> JavaScript, TypeScript, HTML5, CSS3, C#, Python, Rust</p>
@@ -44,19 +44,11 @@
 <p align="center">I believe in consistent effort and growth. Here's a snapshot of my activity:</p>
 
 <p align="center">
-  <img alt="Voxxai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Voxxai&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
+  <img alt="Voxxai's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Voxxai&theme=radical"/>
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxxai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Voxxai&theme=radical"/>
   <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Voxxai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
-
-<h2 align="center">🏆 Achievements & Recognition</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Voxxai&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=-1" alt="GitHub Trophies"/>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Voxxai&theme=radical"/>
 </p>
 
 ---
