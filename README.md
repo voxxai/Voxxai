@@ -153,9 +153,9 @@ const voxxai = {
 ## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://YOUR-SPOTIFY-WIDGET-URL/link">
+  <a href="https://voxxai.pythonanywhere.com/link">
     <img
-      src="https://YOUR-SPOTIFY-WIDGET-URL/?theme=dark&spin=true&eq_color=FF2D95"
+      src="https://voxxai.pythonanywhere.com/?theme=dark&spin=true&eq_color=FF2D95"
       alt="Spotify Now Playing"
     />
   </a>
