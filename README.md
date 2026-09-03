@@ -40,11 +40,11 @@ I enjoy working across the stack, with a particular interest in **backend develo
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=ts,js,cs,python,php,rust,html,css,react,nextjs,dotnet,nodejs,laravel,postgres,mysql,docker,git,github,linux,vscode,figma,azure,aws&theme=dark&perline=12"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccs%2Cpython%2Cphp%2Crust%2Chtml%2Ccss%2Creact%2Cnextjs%2Cdotnet%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cvscode%2Cfigma%2Cazure%2Caws&theme=dark&perline=12"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=ts,js,cs,python,php,rust,html,css,react,nextjs,dotnet,nodejs,laravel,postgres,mysql,docker,git,github,linux,vscode,figma,azure,aws&theme=light&perline=12"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccs%2Cpython%2Cphp%2Crust%2Chtml%2Ccss%2Creact%2Cnextjs%2Cdotnet%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cvscode%2Cfigma%2Cazure%2Caws&theme=light&perline=12"
     />
     <img
       alt="Technology Stack"
