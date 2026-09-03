@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://voxxai.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://voxxai.nl/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,30 +53,6 @@ I enjoy working across the stack, with a particular interest in **backend develo
   </picture>
 </p>
 
-### Languages
-
-`TypeScript` · `JavaScript` · `C#` · `Python` · `PHP` · `Rust` · `HTML` · `CSS`
-
-### Frontend
-
-`React` · `Next.js` · `Tailwind CSS`
-
-### Backend
-
-`.NET` · `Node.js` · `Laravel` · `REST APIs`
-
-### Data
-
-`PostgreSQL` · `MySQL` · `SQL`
-
-### Infrastructure & Tooling
-
-`Docker` · `Linux` · `Git` · `GitHub` · `Azure` · `AWS`
-
-### Other Technologies
-
-`Keycloak` · `RabbitMQ` · `n8n` · `Figma`
-
 ---
 
 ## 🚀 Selected Work
@@ -84,22 +60,9 @@ I enjoy working across the stack, with a particular interest in **backend develo
 | Project                                                                | Description                                                                                                          | Stack                                   |
 | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
 | 💰 **[Salary Calculator](https://github.com/Voxxai/salaryCalculator)** | Salary calculator with shift registration, automatic allowance detection, break calculations and local data storage. | React · TypeScript · Tailwind           |
-| 🌐 **[Portfolio](https://github.com/Voxxai/voxxai.github.io)**         | My personal portfolio and home on the web.                                                                           | Next.js · React · TypeScript · Tailwind |
+| 🌐 **[Portfolio](https://voxxai.nl/)**                                 | My personal portfolio and home on the web.                                                                           | Next.js · React · TypeScript · Tailwind |
 
 > More projects are always somewhere between `git init` and "how did this become this complicated?"
-
----
-
-## 🔬 Current Focus
-
-Right now I'm particularly interested in:
-
-* **Backend architecture** and designing maintainable systems
-* **Authentication & authorization**
-* **Automation** and removing repetitive work
-* **Rust** and lower-level development
-* **Linux** and development infrastructure
-* Experimenting with new frameworks, tooling and AI-assisted development
 
 ---
 
@@ -131,8 +94,8 @@ My music taste mostly lives somewhere around **hardcore, frenchcore and uptempo*
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://voxxai.github.io/">
-    <img src="https://img.shields.io/badge/voxxai.github.io-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://voxxai.nl/">
+    <img src="https://img.shields.io/badge/voxxai.nl-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/voxxxiee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
