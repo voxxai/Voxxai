@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Voxxai/Voxxai/main/Jinx.jpg"
+    src="https://raw.githubusercontent.com/Voxxai/Voxxai/main/Jinx.png"
     alt="Voxxai"
     width="100%"
   />
