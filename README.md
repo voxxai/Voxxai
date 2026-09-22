@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://voxxai.dev/">
     <img
-      src="https://img.shields.io/badge/Portfolio-voxxai.nl-ff2d95?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-voxxai.dev-ff2d95?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
@@ -122,7 +122,7 @@ const voxxai = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Voxxai.nl</h3>
+      <h3>🌐 Voxxai.dev</h3>
       <p>
         My personal corner of the internet, built as a portfolio for my
         projects, development work and experiments.
@@ -223,7 +223,7 @@ or listening to something in the general region of:
 <p align="center">
   <a href="https://voxxai.dev/">
     <img
-      src="https://img.shields.io/badge/🌐_voxxai.nl-111111?style=for-the-badge"
+      src="https://img.shields.io/badge/🌐_voxxai.dev-111111?style=for-the-badge"
       alt="voxxai.dev"
     />
   </a>
