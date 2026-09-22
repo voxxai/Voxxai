@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://voxxai.nl/">
+  <a href="https://voxxai.dev/">
     <img
       src="https://img.shields.io/badge/Portfolio-voxxai.nl-ff2d95?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
@@ -133,8 +133,8 @@ const voxxai = {
         <code>TypeScript</code>
         <code>Tailwind CSS</code>
       </p>
-      <a href="https://voxxai.nl/">
-        Visit voxxai.nl →
+      <a href="https://voxxai.dev/">
+        Visit voxxai.dev →
       </a>
     </td>
   </tr>
@@ -221,10 +221,10 @@ or listening to something in the general region of:
 ## 📡 Find Me
 
 <p align="center">
-  <a href="https://voxxai.nl/">
+  <a href="https://voxxai.dev/">
     <img
       src="https://img.shields.io/badge/🌐_voxxai.nl-111111?style=for-the-badge"
-      alt="voxxai.nl"
+      alt="voxxai.dev"
     />
   </a>
   <a href="https://github.com/Voxxai">
