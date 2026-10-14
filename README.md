@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/voxxxiee/Voxxai/main/Jinx.png"
+    src="./voxxai-pfp.png"
     alt="voxxxiee"
-    width="100%"
+    width="300"
   />
 </p>
 
