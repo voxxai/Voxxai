@@ -23,12 +23,6 @@
       alt="Portfolio"
     />
   </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-voxxxiee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
 </p>
 
 ---
@@ -231,12 +225,6 @@ or listening to something in the general region of:
     <img
       src="https://img.shields.io/badge/GitHub-voxxxiee-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
-    />
-  </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Gilian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
     />
   </a>
 </p>
