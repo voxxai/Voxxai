@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://voxxai.dev/">
     <img
-      src="https://img.shields.io/badge/Portfolio-voxxai.dev-ff2d95?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-voxxai.dev-ff1f3d?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
@@ -147,18 +147,18 @@ const voxxai = {
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxxai&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxxai&theme=github_dark&title_color=ff1f3d&icon_color=ff1f3d&text_color=f5f6fb&bg_color=0a0a0d&border_color=b0001c&chart_color=e8b84a"
     alt="GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voxxai&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voxxai&theme=github_dark&title_color=ff1f3d&icon_color=ff1f3d&text_color=f5f6fb&bg_color=0a0a0d&border_color=b0001c&chart_color=e8b84a"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voxxai&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voxxai&theme=github_dark&title_color=ff1f3d&icon_color=ff1f3d&text_color=f5f6fb&bg_color=0a0a0d&border_color=b0001c&chart_color=e8b84a"
     alt="Top Languages"
   />
 </p>
