@@ -18,11 +18,24 @@
 
 <p align="center">
   <a href="https://voxxai.dev/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-voxxai.dev-ff1f3d?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-voxxai.dev-ff1f3d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.twitch.tv/voxxxiee">
+    <img src="https://img.shields.io/badge/Twitch-Voxxai-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch (login voxxxiee)" />
+  </a>
+  <a href="https://linktree.voxxai.dev/">
+    <img src="https://img.shields.io/badge/Links-linktree.voxxai.dev-e8b84a?style=for-the-badge&logoColor=0a0a0d" alt="Linktree" />
+  </a>
+  <a href="https://voxxai.dev/BRAND.md">
+    <img src="https://img.shields.io/badge/Brand-VOX_Castle-0a0a0d?style=for-the-badge&labelColor=ff1f3d" alt="VOX Brand" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ink-0a0a0d-0a0a0d?style=flat-square" alt="ink" />
+  <img src="https://img.shields.io/badge/castle_red-ff1f3d-ff1f3d?style=flat-square" alt="red" />
+  <img src="https://img.shields.io/badge/gold-e8b84a-e8b84a?style=flat-square" alt="gold" />
+  <img src="https://img.shields.io/badge/text-f5f6fb-f5f6fb?style=flat-square&labelColor=121217" alt="text" />
 </p>
 
 ---
@@ -63,6 +76,23 @@ const voxxai = {
   ],
 };
 ```
+
+---
+
+## 🏰 Brand System
+
+**VOX / Voxxai** · dark castle aesthetic · Dutch 18+ stream + software.
+
+| Token | Hex |
+|---|---|
+| Ink | `#0a0a0d` |
+| Panel | `#121217` |
+| Castle red | `#ff1f3d` |
+| Gold | `#e8b84a` |
+| Text | `#f5f6fb` |
+
+Full guide: [BRAND.md on voxxai.dev](https://voxxai.dev/BRAND.md) · Twitch URL remains [`twitch.tv/voxxxiee`](https://www.twitch.tv/voxxxiee) until rename.
+
 
 ---
 
@@ -197,8 +227,14 @@ or listening to something in the general region of:
 <p align="center">
   <a href="https://voxxai.dev/">
     <img
-      src="https://img.shields.io/badge/🌐_voxxai.dev-111111?style=for-the-badge"
+      src="https://img.shields.io/badge/🌐_voxxai.dev-0a0a0d?style=for-the-badge&labelColor=ff1f3d"
       alt="voxxai.dev"
+    />
+  </a>
+  <a href="https://www.twitch.tv/voxxxiee">
+    <img
+      src="https://img.shields.io/badge/Twitch-Voxxai-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+      alt="Twitch"
     />
   </a>
   <a href="https://github.com/voxxai">
