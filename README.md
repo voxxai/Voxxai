@@ -1,19 +1,19 @@
 <p align="center">
   <img
     src="./voxxai-pfp.png"
-    alt="voxxxiee"
+    alt="Voxxai"
     width="300"
   />
 </p>
 
-<h1 align="center">voxxxiee</h1>
+<h1 align="center">Voxxai</h1>
 
 <p align="center">
   <strong>Software Engineer · Full-Stack · Backend · Automation</strong>
 </p>
 
 <p align="center">
-  <code>aka voxxxiee</code> · 🇳🇱 Netherlands
+  <code>aka Voxxai</code> · 🇳🇱 Netherlands
 </p>
 
 <p align="center">
@@ -29,14 +29,14 @@
 
 ## 👾 About
 
-I'm **Gilian**, better known online as **voxxxiee**.
+I'm **Gilian**, better known online as **Voxxai**.
 
 Software Engineer with a Bachelor's degree in Computer Science from **Hogeschool Rotterdam**. I enjoy working across the stack, but I'm especially interested in what happens behind the UI: APIs, authentication, architecture, data flows and automation.
 
 I tend to build things because I need them, because I want to understand how they work, or because *"surely I can automate this"* sounded like a reasonable thought at the time.
 
 ```ts
-const voxxxiee = {
+const voxxai = {
   role: "Software Engineer",
   location: "Netherlands 🇳🇱",
 
@@ -111,7 +111,7 @@ const voxxxiee = {
         <code>TypeScript</code>
         <code>Tailwind CSS</code>
       </p>
-      <a href="https://github.com/voxxxiee/salaryCalculator">
+      <a href="https://github.com/voxxai/salaryCalculator">
         View repository →
       </a>
     </td>
@@ -167,18 +167,18 @@ const voxxxiee = {
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxxxiee&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxxai&theme=2077"
     alt="GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voxxxiee&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voxxai&theme=2077"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voxxxiee&theme=2077"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voxxai&theme=2077"
     alt="Top Languages"
   />
 </p>
@@ -221,9 +221,9 @@ or listening to something in the general region of:
       alt="voxxai.dev"
     />
   </a>
-  <a href="https://github.com/voxxxiee">
+  <a href="https://github.com/voxxai">
     <img
-      src="https://img.shields.io/badge/GitHub-voxxxiee-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-voxxai-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
