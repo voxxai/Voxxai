@@ -51,7 +51,6 @@ const voxxai = {
   currentlyExploring: [
     "Rust",
     "Linux",
-    "AI-assisted Development",
   ],
 
   outsideCode: [
@@ -144,25 +143,6 @@ const voxxai = {
 
 ---
 
-## 🎧 Now Playing
-
-<p align="center">
-  <a href="https://voxxai.pythonanywhere.com/link">
-    <img
-      src="https://voxxai.pythonanywhere.com/?theme=dark&spin=true&eq_color=FF2D95"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    The BPM may be considered a health hazard.
-  </sub>
-</p>
-
----
-
 ## 📊 GitHub
 
 <p align="center">
@@ -189,7 +169,7 @@ const voxxai = {
 
 * 🔐 Authentication, authorization and secure application architecture
 * ⚙️ Backend services and API design
-* 🤖 Automation and AI-assisted development workflows
+* 🤖 Automation and development workflows
 * 🦀 Learning more about Rust
 * 🐧 Linux, infrastructure and development tooling
 * 🧰 Building tools that solve problems I probably could have solved manually in five minutes
